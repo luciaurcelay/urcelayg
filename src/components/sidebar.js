@@ -9,8 +9,8 @@ const Sidebar = () => {
   return (
     <ul className="menu-list">
         <HomeLogo />
-        <li><Link to="/about">About</Link></li>
-        <li><Link to="/photography">Photography</Link></li>
+        <li><Link to="/urcelayg/about">About</Link></li>
+        <li><Link to="/urcelayg/photography">Photography</Link></li>
         <li>
         <a href="https://github.com/luciaurcelay" target="_blank" rel="noopener noreferrer">
             Github

@@ -18,6 +18,7 @@ export const About = () => {
                 <div className="about-container">
                     <p>
                     Research engineer passionate about Artificial Intelligence with a focus on healthcare applications.
+                    Loves photography and listening to Aphex Twin, usually does both at the same time.
                     Biomedical Engineering graduate (2021) and AI Master's (2023) with keen interests in computer vision and
                     NLP. Eager to keep learning and excited about making meaningful contributions.
                     </p>

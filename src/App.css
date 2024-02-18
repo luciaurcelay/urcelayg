@@ -82,6 +82,7 @@
   font-size: 18px;
   color: white;
   margin: 5px 0;
+  text-align: justify;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 50px;
@@ -89,7 +90,7 @@
 }
 
 .pfp {
-  max-width: 20%; /* Change this to 100% to make sure the image doesn't exceed its container */
+  max-width: 15%; /* Change this to 100% to make sure the image doesn't exceed its container */
   height: auto;
   display: block; /* This ensures that the image is a block element */
   margin: 0 auto; /* Center the image horizontally */

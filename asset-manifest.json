@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/urcelayg/static/css/main.a1eaf792.css",
-    "main.js": "/urcelayg/static/js/main.53037b50.js",
+    "main.css": "/urcelayg/static/css/main.d5c42bcc.css",
+    "main.js": "/urcelayg/static/js/main.91a3c669.js",
     "static/js/453.ed3810f9.chunk.js": "/urcelayg/static/js/453.ed3810f9.chunk.js",
     "index.html": "/urcelayg/index.html",
-    "main.a1eaf792.css.map": "/urcelayg/static/css/main.a1eaf792.css.map",
-    "main.53037b50.js.map": "/urcelayg/static/js/main.53037b50.js.map",
+    "main.d5c42bcc.css.map": "/urcelayg/static/css/main.d5c42bcc.css.map",
+    "main.91a3c669.js.map": "/urcelayg/static/js/main.91a3c669.js.map",
     "453.ed3810f9.chunk.js.map": "/urcelayg/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1eaf792.css",
-    "static/js/main.53037b50.js"
+    "static/css/main.d5c42bcc.css",
+    "static/js/main.91a3c669.js"
   ]
 }
